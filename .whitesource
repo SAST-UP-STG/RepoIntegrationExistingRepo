@@ -1,5 +1,5 @@
 {
-  "generalSettings": {
+  "generalSettings": { 
     "shouldScanRepo": "false"
   },
   "scanSettings": {
